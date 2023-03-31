@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-Commerce Website<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact - 350+ questions solved @leetcode, 5 Star @hackerrank<br>
+🔭 I’m currently working on an E-Commerce Website<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact - 350+ questions solved @leetcode, 5 Star @hackerrank, 3 Star @codechef<br>
 
 
 ## 🌐 Socials:
